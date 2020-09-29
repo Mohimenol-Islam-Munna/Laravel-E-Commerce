@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Laravel</title>
+        <title>Laravel Ecommerce</title>
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
@@ -35,12 +35,10 @@
                     @endif
                 </div>
             @endif
-
-            <div class="max-w-6xl mx-auto sm:px-6 lg:px-8">
-                <div>
-                    <p>my content</p> 
-                </div>
+            <div>
+                <button type="button" class="btn btn-danger">Welcome</button>
             </div>
         </div>
+        
     </body>
 </html>
